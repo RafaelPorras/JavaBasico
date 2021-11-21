@@ -1,0 +1,18 @@
+1*Baloncesto Sevilla*Camiseta Verde-Pantalon Verde*Palacio Municipal Deportes San Pablo*7.626 espectadores*C/ Doctor Laffon Soto, S/N*Sevilla*1987
+2*CAI Zaragoza*Camiseta Roja-Pantalon Rojo*Pabellon Principe Felipe*10.500 espectadores*C/ Zurita 21, Principal B Dcha*Zaragoza*2002
+3*Bilbao Basket*Camiseta Negra-Pantalon Negro*Bilbao Arena*10.000 espectadores*C/ Alameda Recalde 27, 3o Dpto. 6*Bilbao*2000
+4*F.C.Barcelona*Camiseta Azul y roja-Pantalon Azul*Palau Blaugrana*7.585 espectadores*Av. Aristides Maillol, S/N*Barcelona*1926
+5*FIATC Joventut*Camiseta Verde y negra-Pantalon Verde y negro*Palacio Mun. De Deportes De Badalona*8.500 espectadores*Ponent, 143-161*Badalona*1930
+6*HERBALIFE Gran Canaria*Camiseta Amarilla-Pantalon Amarillo*Gran Canaria Arena*9.870 espectadores*C/ Cordoba, 31A*Las Palmas de Gran Canaria*1963
+7*IBERO-START Tenerife*Camiseta Amarilla-Pantalon Amarillo*Pabellon Insular Santiago Martin*5.003 espectadores*C/ Mercedes, sin no*Tenerife*1939
+8*ICL Manresa*Camiseta Roja-Pantalon Rojo*Pavello Nou Congost*5.000 espectadores*Ctra. Manresa-Sant Joan de Vilatorrada, S/N*Manresa*1931
+9*LABORAL-KUTXA Baskonia*Camiseta Azul-Pantalon Azul*Fernando Buesa Arena*15.504 espectadores*Carretera Zurbano s/n*Vitoria*1959
+10*MONTAKIT Fuenlabrada*Camiseta Naranja-Pantalon Naranja*Polideportivo Fernando Martin*5.100 espectadores*C/ Grecia, S/N*Fuenlabrada*1981
+11*MORABANC Andorra*Camiseta Azul oscura-Pantalon Azul oscuro*M.I. Govern Andorra*5.000 espectadores*Baixada del Molo 31-35 AD500*Andorra La Vella*1970
+12*MOVISTAR Estudiantes*Camiseta Azul marina-Pantalon Azul marino*Barclaycard Center*12.000 espectadores*C/ Serrano, 129 L-10*Madrid*1948
+13*Real Madrid*Camiseta Blanca-Pantalon Blanco*Barclaycard Center*12.000 espectadores*Avda. Concha Espina, 1*Madrid*1931
+14*RETAbet.es GBc*Camiseta Azul-Pantalon Azul*San Sebastion Arena 2016*11.000 espectadores*Paseo de Anoeta, 22 1o*San Sebastian*2001
+15*RIONATURA-MONBUS Obradoiro*Camiseta Blanca-Pantalon Blanco*Multiusos Fontes do Sar*5060 espectadores*C/ Diego Bernal S/N*Santiago de Compostela*1970
+16*UNICAJA Malaga*Camiseta Verde-Pantalon Verde*Pal. De Deportes Jose Ma Martin Carpena*10.233 espectadores*Av. Gregorio Diego, 44*Malaga*1977
+17*UCAM Murcia*Camiseta Roja-Pantalon Rojo*Palacio Municipal De Deportes*7.341 espectadores*Avenida Del Rocoo, 7*Murcia*1985
+18*Valencia BASKET*Camiseta Naranja-Pantalon Naranja*Pabellon Municipal Fuente San Luis*9.000 espectadores*Av. Hermanos Maristas, 16*Valencia*1986
